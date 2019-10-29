@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 
 import * as ROUTES from '../../constants/routes'
 
-const navigation = () => (
+const Navigation = () => (
     <div>
         <ul>
             <li>
